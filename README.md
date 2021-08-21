@@ -35,7 +35,7 @@ No se recomienda usar distribución basadas en Debian como Kali Linux o Parrot, 
 ### ¿Cómo instalar Xmonad RedTeam Rice?
 **Instalar las siguientes librerias:**
 ```
-sudo apt install xmonad xmobar libghc-xmonad-contrib-dev exa trayer vifm volumeicon-alsa nautilus nitrogen zsh rofi gnome-terminal
+sudo apt install xmonad xmobar libghc-xmonad-contrib-dev exa trayer vifm volumeicon-alsa nautilus nitrogen zsh rofi gnome-terminalz qutebrowser
 ```  
 **Instalar Oh My Zsh** 
 ```
