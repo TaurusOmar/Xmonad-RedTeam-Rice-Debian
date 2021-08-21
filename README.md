@@ -5,7 +5,7 @@ Version 1.0 sobre Debian.
 ![Esta es una imagen de ejemplo](https://i.imgur.com/dpnDbto.png)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TaurusOmar/xmonadRice/main/ezgif-2-da1efdf43970.gif"/>
+  <img src="https://raw.githubusercontent.com/TaurusOmar/xmonad-Pentesting-Rice/master/ezgif-2-da1efdf43970.gif"/>
 </p>
 
 ### ¿Por qué usar XMonad?  
