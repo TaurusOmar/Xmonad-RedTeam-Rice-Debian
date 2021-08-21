@@ -58,4 +58,71 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 Batcat https://github.com/sharkdp/bat
 
 ---------------------------------------  
-Al instalar todo prodecemos a clonar el repositorio
+Al instalar todo prodecemos a clonar el repositorio y determinar el directorio de los archivos descargados.
+
+### Archivo ZSHRC
+```
+cd Download
+cd Xmonad-RedTeam-Rice
+cp 
+
+```
+
+
+
+
+
+
+
+
+
+BurpSuite
+Sqlmap
+Subfinder
+Httpx
+Amss
+Zap Proxy
+Ffuf
+Nmap
+Dirsearch
+Nuclei
+Paramspider
+Sublist3r
+Gobuster
+Wfuzz
+GitRob
+Joomscan
+Wpscan
+Rustscan
+Httprobe
+getJS
+Arjun
+Crlfuzz
+Xsrfprobe
+Liffy
+GraphQLmap
+Dom Red
+OpenRedireX
+Smuggler
+SSRFmap
+HashCcat
+BruteMap
+Request Smuggler
+Cerbrutus
+AppkLeaks
+JWT_Tool
+Jexboss
+Waybackurls
+Patator
+Didar
+Bypass 403
+DirBuster
+Hash-Buster
+Crackmapexec
+Deathstar
+Cloudfail
+Linkfinder
+Subzy
+Shellerator
+Enum4linux
+metasploit
