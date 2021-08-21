@@ -84,6 +84,13 @@ cd Downloads
 cd Xmonad-RedTeam-Rice
 cp -r .config/vifm ~/.config
 ```
+### Agregar archivo exec-in-shell
+```
+cd Downloads
+cd Xmonad-RedTeam-Rice
+sudo cp exec-in-shell /usr/bin/
+```
+
 Al terminar de agregar los archivos en las carpetas correspondientes terminamos compilado xmonadn
 
 ```
