@@ -318,6 +318,7 @@ myKeys =
            , ("Subzy", "gnome-terminal -- zsh -c 'exec-in-shell subzy'")
            , ("Shellerator", "gnome-terminal -- zsh -c 'exec-in-shell  python3 ~/tools/web/shellerator/shellerator.py'")
            , ("Enum4linux", "gnome-terminal -- zsh -c 'exec-in-shell  python3 ~/tools/web/enum4linux-ng/enum4linux-ng.py'")
+           , ("Metasploit", "gnome-terminal -- zsh -c 'exec-in-shell  msfconsole'")
 
 
           ])
