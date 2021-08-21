@@ -1,0 +1,36 @@
+
+Config { font    = "xft:Ubuntu:weight=bold:pixelsize=11:antialias=true:hinting=true"
+       , additionalFonts = [ "xft:Mononoki Nerd Font:pixelsize=11:antialias=true:hinting=true"
+                           , "xft:Font Awesome 5 Free Solid:pixelsize=12"
+                           , "xft:Font Awesome 5 Brands:pixelsize=12"
+                           ]
+       , bgColor = "#282828"
+       , fgColor = "#EBDBB2"
+       , position = Static { xpos = 0 , ypos = 0, width = 1950, height = 24 }
+       , lowerOnStart = True
+       , hideOnStart = False
+       , allDesktops = True
+       , persistent = True
+       , iconRoot = "/home/omar/.xmonad/xpm/"  -- default: "."
+       , commands = [
+                    -- Time and date
+                      Run Date "<fn=2>\xf017</fn>  %b %d %Y - (%H:%M) " "date" 50
+                      -- Network up and down
+                    , Run Network "wlo1" ["-t", "<fn=2>\xf381</fn> <rx>kb  <fn=2>\xf382</fn>  <tx>kb"] 20
+                      -- Cpu usage in percent
+                    , Run Cpu ["-t", "<fn=2>\xf5fc</fn>  cpu: (<total>%)","-H","50","--high","red"] 20
+                      -- Ram used number and percent
+                    , Run Memory ["-t", "<fn=2>\xf2db</fn>  mem: <used>M (<usedratio>%)"] 20
+                      -- Disk space free
+                    , Run DiskU [("/", "<fn=2>\xf0a0</fn>  hdd: <free> free")] [] 60
+                      -- Runs custom script to check for pacman updates. Arch Version
+                      -- This script in .local/bin. Arch Version
+                    , Run Com "/home/omar/.local/bin/pacupdate" [] "pacupdate" 36000
+                      -- Runs a standard shell command 'uname -r' to get kernel version
+                    , Run Com "uname" ["-r"] "" 3600
+                    , Run UnsafeStdinReader
+                    ]
+       , sepChar = "%"
+       , alignSep = "}{"
+       , template = " <icon=haskell_20.xpm/>   <fc=#a89984>|</fc> %UnsafeStdinReader% }{  <fc=#a89984>•</fc>  <fc=#d3869b><fn=3> </fn>%uname%</fc> <fc=#d3869b> |</fc>  <fc=#a89984> %cpu%</fc> <fc=#a89984>|</fc>  <fc=#689d6a> %memory%</fc> <fc=#689d6a>|</fc>  <fc=#83a598> %disku% </fc> <fc=#83a598>|</fc>  <fc=#d79921> %wlo1% </fc> <fc=#d79921>|</fc>   <fc=#d65d0e></fc><fc=#fbf1c7>%date% |                    </fc><fc=#bdae93><fn=2></fn></fc>%trayerpad%"
+       }

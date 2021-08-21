@@ -1,0 +1,400 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/omar/
+	..
+1623442061
+'b
+	/home/omar/bin/
+	..
+1623442061
+'h
+	/home/omar/
+	..
+1623442061
+
+# Bookmarks:
+
+# TUI:
+al
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/omar
+	Pictures
+5
+d/home/omar/Pictures
+	..
+0
+d/home/omar
+	Music
+4
+d/home/omar/Music
+	..
+0
+d/home/omar
+	Documents
+2
+d/home/omar/Documents
+	..
+0
+d/home/omar
+	Music
+4
+d/home
+	omar
+1
+d/
+	home
+5
+d/home
+	omar
+1
+d/
+	libx32
+8
+d/libx32
+	..
+0
+d/
+	home
+4
+d/home
+	omar
+1
+d/home/omar
+	tools
+7
+d/home/omar/tools
+	web
+3
+d/home/omar/tools/web
+	..
+0
+d
+
+# Right window history (oldest to newest):
+D/usr
+	share
+11
+D/usr/share
+	bacula-common
+18
+D/usr/share/bacula-common
+	..
+0
+D/usr/share
+	bacula-common
+18
+D/usr
+	share
+11
+D/home/omar/.config/vifm
+	vifmrc
+6
+D/home/omar
+	..
+0
+D/home
+	omar
+1
+D/
+	libx32
+9
+D/libx32
+	..
+0
+D/
+	media
+11
+D/media
+	omar
+1
+D/media/omar
+	..
+0
+D/media
+	omar
+1
+D/
+	home
+5
+D/home
+	omar
+1
+D/home/omar
+	Pictures
+5
+D/home/omar/Pictures
+	unnamed.jpg
+6
+D/home/omar
+	Pictures
+5
+D/home
+	omar
+1
+D/home/omar
+	Documents
+2
+D/home/omar/Documents
+	..
+0
+D/home/omar
+	Pictures
+5
+D/home/omar/Pictures
+	unnamed.jpg
+6
+D/home/omar
+	Pictures
+5
+D/home
+	omar
+1
+D/
+	home
+5
+D/home
+	omar
+1
+D/home/omar
+	Pictures
+5
+D/home/omar/.config
+	gnome-initial-setup-done
+18
+D/home/omar
+	Downloads
+3
+D/home/omar/Downloads
+	sqlmapproject-sqlmap-7c7c338
+3
+D/home/omar/Downloads/sqlmapproject-sqlmap-7c7c338
+	doc
+2
+D/home/omar/Downloads
+	sqlmapproject-sqlmap-7c7c338
+3
+D/home/omar
+	Documents
+2
+D/home/omar/Documents
+	test.js
+1
+D/home/omar
+	Documents
+2
+D/home/omar/Documents
+	test.js
+1
+D/home/omar
+	Pictures
+5
+D/home/omar/Pictures
+	Screenshot from 2021-06-11 02-48-24.png
+2
+D/home/omar
+	Documents
+2
+D/home/omar/Documents
+	test.js
+2
+D/home/omar
+	Music
+4
+D/home
+	omar
+1
+D/home/omar
+	Music
+4
+D/home/omar/Music
+	..
+0
+D/home/omar
+	Documents
+2
+D/home/omar/Documents
+	test.js
+2
+D/home/omar
+	Documents
+2
+D/home/omar/Documents
+	test.js
+2
+D/home/omar
+	Downloads
+3
+D/home/omar/Downloads
+	Fira_Code
+1
+D/home/omar/Downloads/Fira_Code
+	static
+1
+D/home/omar/Downloads
+	Fira_Code
+1
+D/home/omar
+	Documents
+2
+D/home/omar/Documents
+	test.js
+2
+D/home/omar
+	Music
+4
+D/home/omar/Music
+	..
+0
+D/home/omar
+	snap
+10
+D/home/omar/snap
+	..
+0
+D/home/omar
+	snap
+10
+D/home
+	omar
+1
+D/
+	home
+5
+D/home
+	omar
+1
+D/
+	lib
+6
+D/lib
+	..
+0
+D/
+	home
+5
+D/home
+	omar
+1
+D/home/omar
+	Downloads
+3
+D/home/omar/Downloads
+	..
+0
+D/home/omar
+	Downloads
+3
+D/home/omar/Downloads
+	UbuntuMono
+3
+D/home/omar
+	Documents
+2
+D/home/omar/Documents
+	..
+0
+D/home/omar
+	Pictures
+5
+D/home/omar/Pictures
+	..
+0
+D/home/omar
+	Pictures
+5
+D/home/omar/Pictures
+	pwn.png
+1
+D/home/omar
+	Downloads
+3
+D/home/omar/Downloads
+	Mononoki
+2
+D/home/omar
+	Downloads
+3
+D/home/omar/Downloads
+	..
+0
+D/home/omar
+	Downloads
+3
+D/home/omar/Downloads
+	..
+0
+D/home/omar
+	output
+12
+D/home/omar/output
+	..
+0
+D/home/omar
+	Pictures
+5
+D/home/omar/Pictures
+	photo_2021-08-02_16-09-48.jpg
+1
+D/home/omar
+	Downloads
+3
+D/home/omar/Downloads
+	gruvbox_red.jpg
+11
+D/home/omar
+	Downloads
+3
+D/home/omar/Downloads
+	gruvbox_RedTeam.png
+7
+D/home/omar
+	nuclei-templates
+6
+D/home/omar/nuclei-templates
+	..
+0
+D
+
+# Command line history (oldest to newest):
+:cd .config/
+:code .zshrc
+:q
+:rm get-pip.py
+:mkdir `
+:mkdir tools
+:mkdir 
+
+# Search history (oldest to newest):
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/home/omar/.local/share/vifm/Trash/000_get-pip.py
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/home/omar/.local/share/vifm/Trash/000_get-pip.py
+	/home/omar/get-pip.py
+
+# State:
+f
+i1
+[.1
+[F
+F
+I1
+].1
+]F
+s0
